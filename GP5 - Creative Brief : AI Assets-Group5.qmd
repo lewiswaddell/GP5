@@ -36,6 +36,6 @@ execute:
 
 # Appendix
 
--   GitHub Repo
+-   [GitHub Repo](https://github.com/lewiswaddell/GP5.git)
 
--   GitPage
+-   [GitPage](https://lewiswaddell.github.io/GP5/)
