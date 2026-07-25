@@ -1,0 +1,41 @@
+---
+title: |
+  <div style="display:flex; align-items:center; justify-content:center; gap:15px;">
+    <img src="637382017185780333+290935.avif" style="height:70px;">
+    <span>GP4 - Mini Campaign Plan</span>
+  </div>
+author: "Group 5: Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, & Georgia Monjarrez"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Creative objective
+
+# Target audience
+
+# Key message
+
+# Tone and style
+
+# Channel recommendations
+
+# At least 3 sample creative assets
+
+# AI prompt documentation, if AI is used
+
+# Explanation of how the assets support the campaign plan
+
+# Appendix
+
+-   GitHub Repo
+
+-   GitPage
