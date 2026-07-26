@@ -36,6 +36,40 @@ This audience is motivated by freshness, affordability, and sustainability. They
 
 # Channel recommendations
 
+To maximize awareness and increase customer engagement, the CPP Farm Store should use a combination of digital and campus-based marketing channels. Each channel reaches a different segment of the target audience while reinforcing the campaign message.
+
+## Instagram
+
+Instagram should be the primary marketing channel because it is widely used by Cal Poly Pomona students. The Farm Store can share photos and short videos of seasonal produce, locally made products, special promotions, and behind-the-scenes content. Instagram Stories and Reels can also be used to announce limited-time offers and events.
+
+## Email Marketing
+
+Email newsletters are an effective way to communicate with students, faculty, staff, alumni, and community members who subscribe to updates. Weekly emails can highlight seasonal products, promotions, campus events, and exclusive discounts while encouraging repeat visits.
+
+## Facebook
+
+Facebook is useful for reaching faculty, staff, alumni, parents, and local community members. The platform can be used to promote events, announce new products, and share educational content about locally grown produce and sustainable agriculture.
+
+## CPP Website and Campus Communications
+
+The Farm Store should utilize the Cal Poly Pomona website, campus newsletters, digital signage, and student announcements to increase visibility among the university community. These channels help reach people who are already on campus and may not follow the Farm Store on social media.
+
+## Google Business Profile
+
+Keeping the Farm Store's Google Business Profile updated with accurate hours, photos, promotions, and customer reviews improves visibility in Google Search and Google Maps. This makes it easier for new customers and visitors to discover the store.
+
+## Why These Channels?
+
+Using multiple marketing channels creates an integrated campaign that reaches customers wherever they are most active. Social media builds awareness and engagement, email encourages repeat purchases, campus communications increase visibility within the university, and Google helps attract new customers searching for local products. Together, these channels support the campaign objective of increasing awareness, driving store traffic, and promoting the unique products available at the CPP Farm Store.
+
+| Channel | Purpose | Primary Audience |
+|---------|---------|------------------|
+| Instagram | Showcase products and promotions | Students |
+| Email Marketing | Share weekly updates and offers | Students, faculty, staff, alumni |
+| Facebook | Promote events and community engagement | Alumni and local community |
+| CPP Website & Campus Communications | Increase on-campus awareness | University community |
+| Google Business Profile | Improve local search visibility | Local shoppers and visitors |
+
 # At least 3 sample creative assets
 
 # AI prompt documentation, if AI is used
