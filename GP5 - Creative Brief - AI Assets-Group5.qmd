@@ -40,9 +40,9 @@ This message emphasizes the connection between CPP’s agricultural identity, th
 
 Supporting messages may include:
 
-* **Fresh, local, and grown close to campus.**
-* **Discover what is fresh this week at CPP Farm Store.**
-* **Shop local. Support CPP. Taste fresh.**
+- **Fresh, local, and grown close to campus.**
+- **Discover what is fresh this week at CPP Farm Store.**
+- **Shop local. Support CPP. Taste fresh.**
 
 The message is designed to encourage students, faculty, staff, and nearby community members to view CPP Farm Store as a convenient destination for fresh products, seasonal items, and campus-related gifts. It also supports campaign tactics such as the “Fresh This Week” webpage, seasonal pickup bundles, and weekly social media posts.
 
@@ -53,7 +53,6 @@ The campaign will use a tone that is **fresh, friendly, welcoming, local, and st
 Visually, the campaign should use bright natural lighting, real product photography, seasonal produce, and recognizable elements of the CPP Farm Store or campus environment. Designs should feel clean and approachable, using warm earth tones, natural greens, and CPP brand colors when appropriate. Promotional materials should avoid appearing overly corporate or artificial and instead highlight authenticity, freshness, and the connection between the farm and the campus community.
 
 Overall, the creative style should make CPP Farm Store feel convenient, trustworthy, and community-oriented while maintaining a consistent and professional connection to Cal Poly Pomona.
-
 
 # Channel recommendations
 
@@ -84,7 +83,7 @@ Keeping the Farm Store's Google Business Profile updated with accurate hours, ph
 Using multiple marketing channels creates an integrated campaign that reaches customers wherever they are most active. Social media builds awareness and engagement, email encourages repeat purchases, campus communications increase visibility within the university, and Google helps attract new customers searching for local products. Together, these channels support the campaign objective of increasing awareness, driving store traffic, and promoting the unique products available at the CPP Farm Store.
 
 | Channel | Purpose | Primary Audience |
-|---------|---------|------------------|
+|------------------|------------------|-----------------------------------|
 | Instagram | Showcase products and promotions | Students |
 | Email Marketing | Share weekly updates and offers | Students, faculty, staff, alumni |
 | Facebook | Promote events and community engagement | Alumni and local community |
@@ -93,12 +92,34 @@ Using multiple marketing channels creates an integrated campaign that reaches cu
 
 # At least 3 sample creative assets
 
+**Email**:
+
+![](images/clipboard-3268207755.jpeg){width="404"}
+
+**Subject Line + Preview Text:**
+
+![](images/clipboard-2447121824.jpeg){width="453"}
+
 # AI prompt documentation, if AI is used
+
+Email Graphic Prompt Used:
+
+Create a email graphic of a Cal Poly Pomona Farm Store Gift Basket . It is a box that inlcudes nuts, fruit preserves, flavored dipping oil, candy, jam etc. it starts at \$50. It's a banner that should fit on a regular mailchimp email. (This was the initial prompt, and I asked it to make changes to the graphic to get it to where wanted it to be.)
 
 # Explanation of how the assets support the campaign plan
 
+Email:
+
+This email campaign supports the "Fresh from Our Farm to Your Campus" campaign that our group has planned by reaching exisitng customers who have subscribed to receive emails from the CPP Farm Store. This email focuses on reaching these existing customers with a direct, personalized promotion for the CPP Farm Store gift baskets. The subject line and preview text work together to catch the attention of the email recipients and highlight the value of the gift baskets by emphasizing locally made gift baskets starting at \$50.
+
+Instagram Post and Product Image:
+
+The IG post and the product image will extend the campaign's reach by increasing CPP Farm Store's digital presence. This will be done by showcasing seasonal products and promotions to both current followers and new audiences that do not know about the farm store. One main goal being the push of gift basket sales, by promoting them not only through email, but social media as well. By expanding the Farm Store's visibility across social media, these assets support the campaign objective of increasing awareness of not only the CPP Farm Store, but it's products too.
+
+Together, the three assets create a cohesive cross channel marketing campaign that reinforces the CPP Farm Store's brand across different digital touch points. By maintaining consistent messaging and visual branding, the assets work together to increase awareness of the Farm Store, strengthen its digital presence, and encourage customers to explore products online.
+
 # Appendix
 
--   [GitHub Repo](https://github.com/lewiswaddell/GP5.git)
+- [GitHub Repo](https://github.com/lewiswaddell/GP5.git)
 
--   [GitPage](https://lewiswaddell.github.io/GP5/)
+- [GitPage](https://lewiswaddell.github.io/GP5/)
