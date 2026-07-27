@@ -40,9 +40,9 @@ This message emphasizes the connection between CPP’s agricultural identity, th
 
 Supporting messages may include:
 
-- **Fresh, local, and grown close to campus.**
-- **Discover what is fresh this week at CPP Farm Store.**
-- **Shop local. Support CPP. Taste fresh.**
+-   **Fresh, local, and grown close to campus.**
+-   **Discover what is fresh this week at CPP Farm Store.**
+-   **Shop local. Support CPP. Taste fresh.**
 
 The message is designed to encourage students, faculty, staff, and nearby community members to view CPP Farm Store as a convenient destination for fresh products, seasonal items, and campus-related gifts. It also supports campaign tactics such as the “Fresh This Week” webpage, seasonal pickup bundles, and weekly social media posts.
 
@@ -83,7 +83,7 @@ Keeping the Farm Store's Google Business Profile updated with accurate hours, ph
 Using multiple marketing channels creates an integrated campaign that reaches customers wherever they are most active. Social media builds awareness and engagement, email encourages repeat purchases, campus communications increase visibility within the university, and Google helps attract new customers searching for local products. Together, these channels support the campaign objective of increasing awareness, driving store traffic, and promoting the unique products available at the CPP Farm Store.
 
 | Channel | Purpose | Primary Audience |
-|------------------|------------------|-----------------------------------|
+|-------------------|-------------------|-----------------------------------|
 | Instagram | Showcase products and promotions | Students |
 | Email Marketing | Share weekly updates and offers | Students, faculty, staff, alumni |
 | Facebook | Promote events and community engagement | Alumni and local community |
@@ -92,7 +92,11 @@ Using multiple marketing channels creates an integrated campaign that reaches cu
 
 # At least 3 sample creative assets
 
-**Email**:
+## **Product Image**
+
+![Sample gift box generated using ChatGPT](images/CPP Farmstore Gift Box-01.png)
+
+## **Email**
 
 ![](images/clipboard-3268207755.jpeg){width="404"}
 
@@ -100,11 +104,51 @@ Using multiple marketing channels creates an integrated campaign that reaches cu
 
 ![](images/clipboard-2447121824.jpeg){width="453"}
 
+## Instagram Post
+
+![Sample Instagram Post Generated using ChatGPT](CPP Farmstore Gift Box Instagram Post.png)
+
 # AI prompt documentation, if AI is used
 
-Email Graphic Prompt Used:
+## Sample Product Image Prompt Used:
+
+Create a realistic, professional product photograph of a Cal Poly Pomona Farm Store gift box displayed on a rustic wooden table. The open gift box should be neatly arranged with locally made products, including jars of fruit preserves and jam, packaged nuts, candy, and a bottle of flavored dipping oil. Make each product clearly visible and attractively positioned, with realistic packaging and no distorted or unreadable labels.
+
+Use bright natural lighting, warm earth tones, fresh greenery, and subtle green-and-gold accents inspired by Cal Poly Pomona. Add a few pieces of seasonal fruit around the box to reinforce the “Fresh from Our Farm to Your Campus” campaign theme. The overall mood should feel fresh, friendly, welcoming, authentic, and community-oriented rather than overly corporate or luxurious.
+
+Use a clean background with a softly blurred farm or campus-inspired setting. Keep the gift box as the main focal point and leave some open space around the product for promotional text to be added later. Create the image in a polished commercial product-photography style suitable for an Instagram post and digital marketing campaign. Square 1:1 composition, high resolution, no people, no text, no logos, and no watermark.
+
+For the product labels on the items, include the CPP Farmstore logo
+
+## Email Graphic Prompt Used:
 
 Create a email graphic of a Cal Poly Pomona Farm Store Gift Basket . It is a box that inlcudes nuts, fruit preserves, flavored dipping oil, candy, jam etc. it starts at \$50. It's a banner that should fit on a regular mailchimp email. (This was the initial prompt, and I asked it to make changes to the graphic to get it to where wanted it to be.)
+
+## Instagram Post Prompt Used:
+
+Create a polished, branded Instagram feed post promoting Cal Poly Pomona Farm Store gift boxes. Use a vertical 4:5 format, 1080 × 1350 pixels, optimized for viewing on a mobile phone.
+
+Feature a realistic, professional product photograph of an open gift box displayed on a rustic wooden table. Arrange the box with locally made products, including fruit preserves, jam, packaged nuts, candy, and a bottle of flavored dipping oil. Make the products clearly visible and attractively arranged. Add seasonal citrus, fresh greenery, and subtle farm-inspired details around the box.
+
+Use bright natural lighting, warm earth tones, natural greens, and CPP green-and-gold accents. Include a softly blurred farm, Farm Store, or Cal Poly Pomona campus setting in the background. The overall design should feel fresh, friendly, welcoming, authentic, student-friendly, and community-oriented rather than overly corporate or luxurious.
+
+Use the uploaded circular **Cal Poly Pomona Farm Store logo** as the official branding element. Place it clearly near the top of the design without changing its colors, wording, proportions, or illustrated details. Use the same logo on the product labels where appropriate.
+
+Include the following text in a clear visual hierarchy:
+
+Give a Fresh Taste of CPP
+
+Farm Store Gift Boxes
+
+Starting at \$50
+
+Shop Online or Visit the Farm Store
+
+Add the campaign tagline near the bottom:
+
+Fresh from Our Farm to Your Campus
+
+Use clean, readable typography with strong contrast against the background. Leave enough spacing around each text element and avoid overcrowding the design. Keep the gift box as the main focal point, with promotional text positioned in open negative space. Create a cohesive, professional social media advertisement with no people, no watermark, use the CPP Farmstore additional logos, and no unrelated text.
 
 # Explanation of how the assets support the campaign plan
 
@@ -120,6 +164,6 @@ Together, the three assets create a cohesive cross channel marketing campaign th
 
 # Appendix
 
-- [GitHub Repo](https://github.com/lewiswaddell/GP5.git)
+-   [GitHub Repo](https://github.com/lewiswaddell/GP5.git)
 
-- [GitPage](https://lewiswaddell.github.io/GP5/)
+-   [GitPage](https://lewiswaddell.github.io/GP5/)
